@@ -2,6 +2,27 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+### Steps
+
+```shell
+npm install @clerk/nextjs @uploadthing/react mongose svix uploadthing
+```
+
+- Override globals.css file from https://github.com/
+
+- Copy tailwind.config.ts from https://github.com/
+
+```bash
+npm install tailwindcss-animate
+```
+
+
+
+
+
+
+
 First, run the development server:
 
 ```bash
