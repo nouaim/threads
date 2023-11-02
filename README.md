@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 
-### Steps
+## Step by Step 
 
 ```shell
 npm install @clerk/nextjs @uploadthing/react mongose svix uploadthing
@@ -17,10 +17,27 @@ npm install @clerk/nextjs @uploadthing/react mongose svix uploadthing
 npm install tailwindcss-animate
 ```
 
+## install shadcn form
+
+```bash
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add form
+```
+
+
+- copy again globals.css file from https://github.com/
+
+- Copy again tailwind.config.ts from https://github.com/
 
 
 
+## install useuploadthing
 
+```bash
+npm install uploadthing @uploadthing/react
+```
+
+## Running
 
 
 First, run the development server:
