@@ -2,11 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Credit
+
+This project is based on this open source project https://github.com/adrianhajdin/threads
+
+However, this one is meant to be run on nextjs 14 instead of 13.
 
 ## Step by Step 
 
 ```shell
-npm install @clerk/nextjs @uploadthing/react mongose svix uploadthing
+npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing
 ```
 
 - Override globals.css file from https://github.com/
