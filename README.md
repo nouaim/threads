@@ -2,11 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-### Credit
-
-This project is based on this open source project https://github.com/adrianhajdin/threads
-
-However, this one is meant to be run on nextjs 14 instead of 13.
 
 ## Step by Step 
 
@@ -29,11 +24,9 @@ npx shadcn-ui@latest init
 npx shadcn-ui@latest add form
 ```
 
+- copy again globals.css file from https://gist.github.com/adrianhajdin 
 
-- copy again globals.css file from https://github.com/
-
-- Copy again tailwind.config.ts from https://github.com/
-
+- Copy again tailwind.config.ts 
 
 
 ## install useuploadthing
@@ -77,3 +70,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Credit
+
+This project is based on this open source project https://github.com/adrianhajdin/threads
+
+However, this one is meant to be run on nextjs 14 instead of 13.
